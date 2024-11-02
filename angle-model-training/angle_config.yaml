@@ -1,0 +1,13 @@
+path: C:/Users/alex/Documents/SFU Courses/FALL 2024/IAT 360/Work/CVProject-ShotAngle_LevelClassifier/angle_data
+train: C:/Users/alex/Documents/SFU Courses/FALL 2024/IAT 360/Work/CVProject-ShotAngle_LevelClassifier/angle_data/train
+test: C:/Users/alex/Documents/SFU Courses/FALL 2024/IAT 360/Work/CVProject-ShotAngle_LevelClassifier/angle_data/test
+val: C:/Users/alex/Documents/SFU Courses/FALL 2024/IAT 360/Work/CVProject-ShotAngle_LevelClassifier/angle_data/val
+
+nc: 5
+
+names:
+  0: dutch
+  1: high
+  2: low
+  3: neutral
+  4: overhead
